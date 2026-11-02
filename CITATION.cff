@@ -1,0 +1,18 @@
+# Made by Repo Pegboard. GitHub reads this file to show "Cite this repository".
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper below."
+title: "solid-evidence"
+authors:
+  - family-names: "Armstrong"
+    given-names: "Matthew"
+preferred-citation:
+  type: report
+  title: "SOLID evidence: A defensive publication of how EVERYTHING to solid (formerly STL2STEP) turns triangle meshes into CAD solids, with all the free research behind it"
+  authors:
+    - family-names: "Armstrong"
+      given-names: "Matthew"
+  version: "1.2"
+  date-published: 2026-10-23
+  year: 2026
+  license: CC-BY-SA-4.0
+  abstract: "EVERYTHING to solid is a free (non-commercial), offline program that turns an STL mesh, which is a bag of triangles, into a STEP solid, which is the kind of file a CAD program can edit: true planes, cylinders, spheres, surfaces of revolution and smooth NURBS patches, closed into one watertight body. This paper puts every method the program uses, with its parameters and its variants, into the public record, so that nobody can later patent them and stop people using them. It covers seventeen disclosures. The largest are:"
