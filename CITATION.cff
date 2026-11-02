@@ -5,6 +5,7 @@ title: "solid-evidence"
 authors:
   - family-names: "Armstrong"
     given-names: "Matthew"
+repository-code: "https://github.com/The-Dorkknight/solid-evidence"
 preferred-citation:
   type: report
   title: "SOLID evidence: A defensive publication of how EVERYTHING to solid (formerly STL2STEP) turns triangle meshes into CAD solids, with all the free research behind it"
